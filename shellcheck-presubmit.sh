@@ -33,3 +33,4 @@ if [[ "$1" == "--run" ]]; then
   shellcheck_new_files
 fi
 
+
